@@ -17,4 +17,4 @@ Each thesaurus entry begins with "word|n". `word` is the word for which synonyms
 are listed for. `n` is the number of different groups of meanings the word has.
 The first line is followed by n more lines. Each line starts with the part of
 speech(`type`) of the words following, and lists words in a group each seperated
-by a tilde. 
+by a pipe. 
